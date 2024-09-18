@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Sarvarbek !<br>I'm Front-End developer <br>I'm currently learning React.js<br>I'm so excited to learn Java and Angular as JavaScript Framwork<br>Thanks, Bye!
+Hi, my name is Sarvarbek !<br>I'm Front-End developer <br>I'm currently learning React.js<br>I'm so excited to learn Java and Angular as JavaScript Framwork<br>Thanks !
 
 
 # 💻 Tech Stack:
