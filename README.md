@@ -13,6 +13,6 @@ Hi, my name is Sarvarbek !<br>I'm Front-End developer <br>I'm currently learning
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sarvarDev6&label=Profile%20Views&color=1&icon=7&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sarvarDev6&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
